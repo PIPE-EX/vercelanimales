@@ -1,0 +1,104 @@
+{
+    "animales":[
+        {
+            "ID": 1,
+            "Tipo": "perro",
+            "Nombre": "Rocky",
+            "Imagen": "https://res.cloudinary.com/dyepe4ih7/image/upload/v1702702624/animales/i6dqvl4urhydbwnl95po.jpg",
+            "Raza": "Rottweiler",
+            "Edad": "3 meses",
+            "Ubicacion": "4140 Parker Rd. Allentown, New Mexico 31134",
+            "Historia": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos. Nuestra misión es encontrar la familia ideal para él, ¡seguro que tú eres la persona indicada!"
+        },
+        {
+            "ID": 2,
+            "Tipo": "perro",
+            "Nombre": "Chester",
+            "Imagen": "https://res.cloudinary.com/dyepe4ih7/image/upload/v1702702623/animales/vhgiiiq1scsgxkose5ya.jpg",
+            "Raza": "Golden Retriever",
+            "Edad": "2 meses",
+            "Ubicacion": "Dirección de Chester",
+            "Historia": "Chester es un cachorro juguetón y lleno de energía. Está buscando un hogar amoroso donde pueda crecer y compartir momentos felices contigo."
+        },
+        {
+            "ID": 3,
+            "Tipo": "perro",
+            "Nombre": "Papi",
+            "Imagen": "https://res.cloudinary.com/dyepe4ih7/image/upload/v1702779678/animales/vea66sjwax0iqfwwszml.png",
+            "Raza": "Chihuahua",
+            "Edad": "1.5 meses",
+            "Ubicacion": "Dirección de Papi",
+            "Historia": "Papi es un pequeño chihuahua con un corazón grande. A pesar de su tamaño, tiene mucho amor para dar. ¿Te gustaría darle un hogar?"
+        },
+        {
+            "ID": 4,
+            "Tipo": "perro",
+            "Nombre": "Pelusa",
+            "Imagen": "https://res.cloudinary.com/dyepe4ih7/image/upload/v1702702624/animales/vxsoe0g7y3flig0d7tpq.jpg",
+            "Raza": "Bichon Frise",
+            "Edad": "2 meses",
+            "Ubicacion": "Dirección de Pelusa",
+            "Historia": "Pelusa es un bichon frise esponjoso y encantador. Busca un hogar acogedor donde pueda recibir cariño y atención. ¿Quieres ser su compañero?"
+        },
+        {
+            "ID": 5,
+            "Tipo": "perro",
+            "Nombre": "Charlie",
+            "Imagen": "https://res.cloudinary.com/dyepe4ih7/image/upload/v1702702624/animales/elo2xmeeinuku70dytkz.jpg",
+            "Raza": "Chihuahua",
+            "Edad": "1 mes",
+            "Ubicacion": "Dirección de Charlie",
+            "Historia": "Charlie es un adorable chihuahua con ojos brillantes y juguetones. Está listo para encontrar un hogar amoroso. ¿Te gustaría ser su nuevo dueño?"
+        },
+        {
+            "ID": 6,
+            "Tipo": "perro",
+            "Nombre": "Buddy",
+            "Imagen": "https://res.cloudinary.com/dyepe4ih7/image/upload/v1702702624/animales/jxgtnzxcwumkpebmhroy.png",
+            "Raza": "Cocker Spain",
+            "Edad": "2.5 meses",
+            "Ubicacion": "Dirección de Buddy",
+            "Historia": "Buddy es un cocker spain lleno de energía y afecto. Busca un hogar donde pueda correr y jugar. ¿Quieres ser su compañero de por vida?"
+        },
+        {
+            "ID": 7,
+            "Tipo": "gato",
+            "Nombre": "Matilde",
+            "Imagen": "https://res.cloudinary.com/dyepe4ih7/image/upload/v1702702623/animales/ju3mck2aogwv0f35zje2.png",
+            "Raza": "British Shorthair",
+            "Edad": "2 meses",
+            "Ubicacion": "Dirección de Matilde",
+            "Historia": "Matilde es una gatita british shorthair elegante y curiosa. Busca un hogar donde pueda explorar y recibir caricias. ¿Quieres ser su dueño?"
+        },
+        {
+            "ID": 8,
+            "Tipo": "gato",
+            "Nombre": "Pelusa",
+            "Imagen": "https://res.cloudinary.com/dyepe4ih7/image/upload/v1702702623/animales/uz6e5i3l3iaxq7w2upwy.jpg",
+            "Raza": "Birmano",
+            "Edad": "1.5 meses",
+            "Ubicacion": "Dirección de Pelusa (gato)",
+            "Historia": "Pelusa es un gato birmano suave y tierno. Busca un lugar cómodo donde pueda ronronear y descansar. ¿Quieres ser su dueño?"
+        },
+        {
+            "ID": 9,
+            "Tipo": "gato",
+            "Nombre": "Kity",
+            "Imagen": "https://res.cloudinary.com/dyepe4ih7/image/upload/v1702702624/animales/osy6xctwxzrmm43x66qd.png",
+            "Raza": "Bombay",
+            "Edad": "2 meses",
+            "Ubicacion": "Dirección de Kity",
+            "Historia": "Kity es un gatito bombay juguetón y cariñoso. Busca un hogar donde pueda jugar y recibir mimos. ¿Te gustaría ser su dueño?"
+        },
+        {
+            "ID": 10,
+            "Tipo": "gato",
+            "Nombre": "Bombón",
+            "Imagen": "https://res.cloudinary.com/dyepe4ih7/image/upload/v1702702623/animales/bv9565joc3zylp2rwteb.jpg",
+            "Raza": "Gato Americano",
+            "Edad": "1.5 meses",
+            "Ubicacion": "Dirección de Bombón",
+            "Historia": "Bombón es un gato americano dulce y juguetón. Busca un hogar donde pueda recibir amor y afecto. ¿Quieres ser su compañero?"
+        }
+    ]
+}
