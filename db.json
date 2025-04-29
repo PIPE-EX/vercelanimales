@@ -99,6 +99,16 @@
             "Edad": "1.5 meses",
             "Ubicacion": "Dirección de Bombón",
             "Historia": "Bombón es un gato americano dulce y juguetón. Busca un hogar donde pueda recibir amor y afecto. ¿Quieres ser su compañero?"
+        },
+        {
+            "ID": 11,
+            "Tipo": "gato",
+            "Nombre": "Barbara",
+            "Imagen": "https://res.cloudinary.com/dyepe4ih7/image/upload/v1702702623/animales/bv9565joc3zylp2rwteb.jpg",
+            "Raza": "Gato Americano",
+            "Edad": "1.5 meses",
+            "Ubicacion": "Dirección de Barbara",
+            "Historia": "Barbara es un gato americano dulce y juguetón. Busca un hogar donde pueda recibir amor y afecto. ¿Quieres ser su compañero?"
         }
     ]
 }
